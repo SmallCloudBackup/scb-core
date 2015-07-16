@@ -1,0 +1,12 @@
+{
+  "name": "scb-core",
+  "description": "SimpleCloudBackup - core data structures and model",
+  "version": "0.0.1",
+  "private": true,
+  "repository": "https://github.com/SmallCloudBackup/scb-core",
+  "dependencies": {
+    "mongoose": "*",
+    "async": "*",
+    "debug": "*"
+  }
+}
